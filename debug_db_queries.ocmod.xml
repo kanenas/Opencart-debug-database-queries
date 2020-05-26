@@ -17,7 +17,7 @@
  * Note that when the html is hidden you can still inspect it by using the developer tools of your browser (e.g. change the css attribute from display:none to display:block).
  * Set to 'true' to display the html, any other value to hide it. 
  */ 
-define('DEBUG_FRONT_DISPLAY', 'true');
+define('DEBUG_FRONT_DISPLAY', 'false');
 define('DEBUG_BACK_DISPLAY', 'true');
 
 /** 
